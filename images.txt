@@ -2,4 +2,4 @@ tenable/nessus:10.7.4-ubuntu
 mysql:5.6.51
 mysql:5.7.44
 makedie/fnos:0.8.22-438_test
-ypptec/nascab:3.5.2-x64
+ypptec/nascab:3.5.1
